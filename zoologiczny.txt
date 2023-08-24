@@ -1,0 +1,10 @@
+1.Gatunek:Pies, rasa:Jamnik, plec:K, umarszczenie:Jednolite, liczba sztuk:1, cena jedostkowa[pln]:99, data dostawy[h]10, Uwagi: 
+wchudzony, maly, kochany
+2.Gatunek:Kot, rasa:Perski, plec:M, umarszczenie:Sniade, liczba sztuk:2, cena jedostkowa[pln]:200, data dostawy[h]2, Uwagi: 
+puszysty ogon
+3.Gatunek:Kot, rasa:Syberyjski, plec:M, umarszczenie:Dzicze, liczba sztuk:5, cena jedostkowa[pln]:543, data dostawy[h]12, Uwagi: 
+male puszyce lapki
+4.Gatunek:Kot, rasa:Maltanczyk, plec:K, umarszczenie:Sniade, liczba sztuk:3, cena jedostkowa[pln]:3, data dostawy[h]3, Uwagi: 
+posiada ogon
+1.Gatunek:Pies, rasa:Kundel, plec:M, umarszczenie:Dzicze, liczba sztuk:1, cena jedostkowa[pln]:20, data dostawy[h]10, Uwagi: 
+maly ogon, slodki pyszczek
